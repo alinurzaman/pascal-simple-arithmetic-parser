@@ -1,0 +1,15 @@
+[Project]
+FileName=D:\workspace\Parser\Program_Parser.dp
+Name=Program_Parser
+MainUnit=D:\workspace\Parser\Parser.pas
+UnitCount=1
+ResFiles=D:\workspace\Parser\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=E:\STUDI\Logo UNIKOM\unikom.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=D:\workspace\Parser\Parser.pas
+FileTime=1121747350
